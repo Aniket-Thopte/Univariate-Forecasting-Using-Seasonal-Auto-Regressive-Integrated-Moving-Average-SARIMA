@@ -9,4 +9,5 @@ Univariate data having seasonal nature and forecasting using Seasonal ARIMA. The
 
 • The performance criteria used to test the forecasting model is 'Mean Average Percentage Error' which comes out to be 1.475% for the combined 3 stages.
 
-# Applications: Seasonal Order Quantity/Demand/Supply/Sales Forecasting.
+# Applications: 
+• Seasonal or Quarterly-Order Quantity/Demand/Supply/Sales Forecasting.
