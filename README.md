@@ -1,4 +1,4 @@
-# Univariate-Forecasting-Using-Seasonal-Auto-Regressive-Integrated-Moving-Average-SARIMA-
+# Univariate-Forecasting-Using-Seasonal-Auto-Regressive-Integrated-Moving-Average-SARIMA
 Univariate data having seasonal nature is used and forecasting is done using Seasonal ARIMA Technique. The full code and detailed report is uploaded.
 
 • Successfully forecasted a univariate model using SARIMA.
